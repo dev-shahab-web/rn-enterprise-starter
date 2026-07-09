@@ -1,0 +1,14 @@
+# Default ownership for the starter framework.
+* @shahab
+
+# Architecture and project documentation.
+/docs/ @shahab
+/PROJECT_CONTEXT.md @shahab
+
+# Automation and repository governance.
+/.github/ @shahab
+/.husky/ @shahab
+
+# Application routing and source architecture.
+/app/ @shahab
+/src/ @shahab
